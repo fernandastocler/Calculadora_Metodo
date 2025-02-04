@@ -1,0 +1,15 @@
+C:\Users\Alunos\Documents\fernanda\Calculadora_Metodo\Calculadora_Metodo\bin\Debug\net9.0\Calculadora_Metodo.exe
+C:\Users\Alunos\Documents\fernanda\Calculadora_Metodo\Calculadora_Metodo\bin\Debug\net9.0\Calculadora_Metodo.deps.json
+C:\Users\Alunos\Documents\fernanda\Calculadora_Metodo\Calculadora_Metodo\bin\Debug\net9.0\Calculadora_Metodo.runtimeconfig.json
+C:\Users\Alunos\Documents\fernanda\Calculadora_Metodo\Calculadora_Metodo\bin\Debug\net9.0\Calculadora_Metodo.dll
+C:\Users\Alunos\Documents\fernanda\Calculadora_Metodo\Calculadora_Metodo\bin\Debug\net9.0\Calculadora_Metodo.pdb
+C:\Users\Alunos\Documents\fernanda\Calculadora_Metodo\Calculadora_Metodo\obj\Debug\net9.0\Calculadora_Metodo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Documents\fernanda\Calculadora_Metodo\Calculadora_Metodo\obj\Debug\net9.0\Calculadora_Metodo.AssemblyInfoInputs.cache
+C:\Users\Alunos\Documents\fernanda\Calculadora_Metodo\Calculadora_Metodo\obj\Debug\net9.0\Calculadora_Metodo.AssemblyInfo.cs
+C:\Users\Alunos\Documents\fernanda\Calculadora_Metodo\Calculadora_Metodo\obj\Debug\net9.0\Calculadora_Metodo.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Documents\fernanda\Calculadora_Metodo\Calculadora_Metodo\obj\Debug\net9.0\Calculadora_Metodo.sourcelink.json
+C:\Users\Alunos\Documents\fernanda\Calculadora_Metodo\Calculadora_Metodo\obj\Debug\net9.0\Calculadora_Metodo.dll
+C:\Users\Alunos\Documents\fernanda\Calculadora_Metodo\Calculadora_Metodo\obj\Debug\net9.0\refint\Calculadora_Metodo.dll
+C:\Users\Alunos\Documents\fernanda\Calculadora_Metodo\Calculadora_Metodo\obj\Debug\net9.0\Calculadora_Metodo.pdb
+C:\Users\Alunos\Documents\fernanda\Calculadora_Metodo\Calculadora_Metodo\obj\Debug\net9.0\Calculadora_Metodo.genruntimeconfig.cache
+C:\Users\Alunos\Documents\fernanda\Calculadora_Metodo\Calculadora_Metodo\obj\Debug\net9.0\ref\Calculadora_Metodo.dll
