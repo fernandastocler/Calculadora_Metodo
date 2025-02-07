@@ -1,24 +1,50 @@
-namespace Calculadora
-{
-    class Operacoes
+class Program
     {
-        public static decimal ObterValor()
+        static void Main(string[] args)
         {
-         repetir:
-          Console.Write("Informe  o valor: ");
-          if (!decimal.TryParse(Console.ReadLine(), out decimal valor))
-          {
-            Console.WriteLine("Valor inválido! ");
-            goto repetir;
-          }   
-          else
-          {
-            return valor;
-          } 
-        }
-        public static void Adicao(decimal valor1, decimal valor2)
-    {
-        Console.WriteLine ($"A somas dos valores é: {valor1 + valor2} ");
+            bool continuar = true;
+
+            while (continuar)
+            {
+                Console.WriteLine("\nCalculadora - Escolha uma operação:");
+                Console.WriteLine("1 - Adição");
+                Console.WriteLine("2 - Subtração");
+                Console.WriteLine("3 - Multiplicação");
+                Console.WriteLine("4 - Divisão");
+                Console.WriteLine("0 - Sair");
+                Console.Write("Opção: ");
+
+                string opcao = Console.ReadLine();
+
+                if (opcao == "0")
+                {
+                    continuar = false;
+                    Console.WriteLine("Encerrando a calculadora. Até mais!");
+                    break;
                 }
+
+                decimal valor1 = Operacoes.ObterValor();
+                decimal valor2 = Operacoes.ObterValor();
+
+                switch (opcao)
+                {
+                    case "1":
+                        Operacoes.Adicao(valor1, valor2);
+                        break;
+                    case "2":
+                        Operacoes.Subtracao(valor1, valor2);
+                        break;
+                    case "3":
+                        Operacoes.Multiplicacao(valor1, valor2);
+                        break;
+                    case "4":
+                        Operacoes.Divisao(valor1, valor2);
+                        break;
+                    default:
+                        Console.WriteLine("Opção inválida! Tente novamente.");
+                        break;
+                }
+            }
+        }
     }
 }
